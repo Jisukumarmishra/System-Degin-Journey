@@ -1,0 +1,13 @@
+System Degin principles:=
+
+1):- DRY:= DON Repat YourSelf
+.Reduce Redudency
+.Extract Logic At One Place
+
+where not to use :=
+Perfomance Critical Code(Used By The Major Customer)
+Sacrificial Readiblity
+Legacy Code
+
+2):- Keep It Simple Degin
+3):-You Arent Goona Need it(Write Code When Actually Nee It)
